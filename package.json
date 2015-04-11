@@ -1,0 +1,15 @@
+{
+  "name": "NodeBucketList",
+  "version": "1.0.0",
+  "description": "Bucket List App Using Node and MongoDb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jay",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.4",
+    "express": "^4.12.3"
+  }
+}
